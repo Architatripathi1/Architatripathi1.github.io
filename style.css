@@ -74,7 +74,7 @@ header input {
     }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 760px) {
     .gallery {
         column-count: 1;
     }
